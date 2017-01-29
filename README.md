@@ -1,7 +1,9 @@
 # HostIP
 Obtener la ip de WebSites, Script realizado en python utilizando la libreria socket
 
-
+Uso:
+1.-cd HostIP
+2.-python hostip.py
 
 
 FanPage: https://www.facebook.com/Krypt05Oficial/
