@@ -31,6 +31,7 @@ def ipscan():
 try:
 	ipscan()
 except(KeyboardInterrupt, SystemExit):
+	print("")
 	print("\n \t [!]Session Terminada por el usuario")
-
+	print("")
 
