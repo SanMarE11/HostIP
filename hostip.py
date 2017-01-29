@@ -28,6 +28,9 @@ def ipscan():
 	print("			IP: "+hostip)
 	print("		-------------------------------")
 	ipscan()
-ipscan()
+try:
+	ipscan()
+except(KeyboardInterrupt, SystemExit):
+	print("\n \t [!]Session Terminada por el usuario")
 
 
